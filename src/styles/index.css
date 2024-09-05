@@ -1,0 +1,63 @@
+body {
+  /* margin: 0; */
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+@font-face {
+  font-family: 'BlinkMacSystemFont';
+  src: local('BlinkMacSystemFont'), url(../fonts/blinkmacsystemfont-light.ttf) format('woff');
+}
+
+@font-face {
+  font-family: 'Simplifica';
+  src: local('Simplifica'), url(../fonts/SIMPLIFICA-Typeface.ttf) format('woff');
+}
+
+@font-face {
+  font-family: 'UniSans-Light';
+  src: local('UniSans-Light'), url(../fonts/UniSans-Trial-Light.ttf) format('woff');
+  }
+
+@font-face {
+  font-family: 'UniSans-Thin';
+  src: local('UniSans-Thin'), url(../fonts/UniSans-Trial-Thin.ttf) format('woff');
+}
+
+@font-face {
+  font-family: 'Neue-Montreal-light';
+  src: local('Neue-Montreal'), url(../fonts/NeueMontreal-Light.otf) format('woff');
+  }
+@font-face {
+  font-family: 'Neue-Montreal-bold';
+  src: local('Neue-Montreal'), url(../fonts/NeueMontreal-Bold.otf) format('woff');
+}
+@font-face {
+  font-family: 'Neue-Montreal-regular';
+  src: local('Neue-Montreal'), url(../fonts/NeueMontreal-Regular.otf) format('woff');
+}
+@font-face {
+  font-family: 'Neue-Montreal-medium';
+  src: local('Neue-Montreal'), url(../fonts/NeueMontreal-Medium.otf) format('woff');
+}
+@font-face {
+  font-family: 'Neue-Montreal-italic';
+  src: local('Neue-Montreal'), url(../fonts/NeueMontreal-Italic.otf) format('woff');
+}

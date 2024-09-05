@@ -1,0 +1,43 @@
+.reading-list {
+    width: 200px;
+    max-height: 72vh;
+    text-align: bottom;
+    font-size: 12px;
+    font-family: 'Neue-Montreal-medium';
+    display: block;
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    overflow-y: scroll;
+    line-height: 2vh;
+}
+.reading-list::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
+.book:hover {
+    opacity:50;
+}
+
+.book-title {
+    font-size: 16px;
+    font-family: 'Neue-Montreal-medium'
+}
+
+.book .authors {
+    margin-top: 5px;
+    font-size: 12px;
+    font-family: 'Neue-Montreal-light'
+}
+
+
+.reading-list  li {
+    list-style-type: none;
+    margin: 0;
+    transition: margin 0.3s ease;
+    font-family: 'Neue-Montreal-medium';
+    font-size: 20px;
+}
+
+.reading-list  a {
+    font-size: 12px;
+}

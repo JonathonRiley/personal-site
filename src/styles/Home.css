@@ -1,0 +1,11 @@
+.home-content {
+    width: 120px;
+    font-size: 12px;
+    font-family: 'Neue-Montreal-medium';
+    display: block;
+}
+
+.home-content a {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,19 @@
+.contact-content {
+    width: 100px;
+    font-size: 12px;
+    font-family: 'Neue-Montreal-medium';
+    display: block;
+
+}
+
+.contacts li {
+    list-style-type: none;
+    margin: 0;
+    transition: margin 0.3s ease;
+    font-family: 'Neue-Montreal-medium';
+    font-size: 20px;
+}
+
+.contacts a {
+    font-size: 12px;
+}

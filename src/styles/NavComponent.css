@@ -1,0 +1,29 @@
+nav {
+    width: 50px;
+}
+.header-nav {
+    padding: 0;
+    margin-top: 30px;
+    max-width: 50px;
+}
+
+.header-nav li {
+    list-style-type: none;
+    margin: 0;
+    transition: margin 0.3s ease;
+    font-family: 'Neue-Montreal-medium';
+    font-size: 20px;
+    line-height: 2vh;
+}
+
+.header-nav a {
+    font-size: 12px;
+}
+
+.not_active .active-spacing {
+    margin-left: 0px;
+}
+
+.is_active .active-spacing {
+    margin-left: 20px;
+}

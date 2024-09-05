@@ -1,0 +1,51 @@
+[
+    {
+        "key": "phd",
+        "url": "https://www.quantummatter.co.uk/kinggroup",
+        "school": "University of St. Andrews",
+        "degree": "PhD Condensed Matter Physics ↗",
+        "when": "Sept. 2013 - June 2017",
+        "awards": [
+                   "SET in Britain Top 25 Physicists 2015",
+                   "Diamond's PhD of the Year 2017",
+                   "JSPS Fellowship"
+                  ]
+    },
+    {
+        "key": "bsc",
+        "url": "https://www.st-andrews.ac.uk/physics-astronomy/",
+        "school": "University of St. Andrews",
+        "degree": "BSc (Honours) Mathematics and Physics ↗",
+        "when": "Sept. 2009 - May 2013",
+        "awards": ["Dean's List 2012/13",
+                   "Dean's List 2011/12",
+                   "Dean's List 2010/11",
+                   "Dean's List 2009/10"
+                  ]
+    },
+    {
+        "key": "hs-end",
+        "url": "https://whs.westboroughk12.org/",
+        "school": "Westborough High School",
+        "degree": "High School Diploma ↗",
+        "when": "Sept. 2007 - May 2009",
+        "awards": ["Weighted GPA - 5.14/4.0",
+                   "AP Calculus AB - 5",
+                   "AP Chemistry - 5",
+                   "AP Biology - 5",
+                   "AP Microeconomics - 5",
+                   "AP Statistics - 5",
+                   "AP European History - 5"
+                  ]
+    },
+    {
+        "key": "hs-start",
+        "url": "https://mhs.masonohioschools.com/",
+        "school": "William Mason High School",
+        "degree": "High School Diploma ↗",
+        "when": "Sept. 2005 - May 2007",
+        "awards": ["Weighted GPA - 4.3/4.0",
+                   "AP US History - 5"
+                  ]
+    }
+]

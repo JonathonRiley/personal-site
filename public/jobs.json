@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Perbak Capital Partners LLP ↗",
+        "title": "Tech Lead / Senior Data Engineer",
+        "when": "July 2021 - Present",
+        "url" : "https://www.pcap.info/",
+        "description": "Leading a small team of engineers building a greenfield platform for automated trading and research at an short-focused equities quantamental hedge fund.",
+        "technologies": [
+            "Python",
+            "React",
+            "Docker",
+            "Airflow",
+            "Pandas",
+            "Numpy",
+            "FastAPI",
+            "Clickhouse",
+            "SQL",
+            "Azure"
+        ]
+    },
+    {
+        "company": "Qumata ↗",
+        "title": "Senior Data Scientist (Contract)",
+        "when": "Sept. 2020 - June 2021",
+        "url" : "https://qumata.com/",
+        "description": "Short term role to migrate machine learning insurance-tech product from R to Python while implementing software engineering best practices.",
+        "technologies": [
+            "Python",
+            "Scikit-Learn",
+            "R"
+        ]
+    },
+    {
+        "company": "BeRightBack ↗",
+        "title": "Data Scientist/Engineer",
+        "when": "Jan 2020 - Sept. 2020",
+        "url" : "https://www.crunchbase.com/organization/berightback",
+        "description": "Using Python web scraping libraries to build an automated suite of tools to streamline holiday bookings. Made redundant due to Covid-19.",
+        "technologies": [
+            "Python",
+            "React",
+            "Pandas",
+            "Numpy",
+            "BeautifulSoup",
+            "SQL",
+            "AWS"
+        ]
+    },
+    {
+        "company": "Depop ↗",
+        "title": "Data Scientist",
+        "when": "March 2018 - Jan. 2020",
+        "url" : "https://depopcareers.com/",
+        "description": "Building a range of user-facing machine learning applications including product recommendations and search optimisations.",
+        "technologies": [
+            "Python",
+            "React",
+            "Pandas",
+            "Numpy",
+            "Scikit-Learn",
+            "Tensorflow",
+            "Flask",
+            "SQL",
+            "AWS"
+        ]
+    },
+    {
+        "company": "Tide ↗",
+        "title": "Junior Data Scientist/Analyst",
+        "when": "Sept. 2017 - March 2018",
+        "url" : "https://www.tide.co/",
+        "description": "Reporting directly to the CEO and COO, analysing customer cohorts and company financials for board presentations. Implemented anti-money laundering and fraud detection system using machine learning.",
+        "technologies": [
+            "Python",
+            "Pandas",
+            "Numpy",
+            "SQL",
+            "Scikit-Learn"
+        ]
+    },
+    {
+        "company": "Fidelity International ↗",
+        "title": "Technology Analyst Intern",
+        "when": "Aug. 2016 - Oct. 2016",
+        "url" : "https://careers.fidelityinternational.com/",
+        "description": "Investigating company’s first data science proof-of-concept project, predicting failure of internal servers.",
+        "technologies": [
+            "Python",
+            "SQL",
+            "Scikit-Learn"
+        ]
+    }
+]

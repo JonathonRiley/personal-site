@@ -1,0 +1,81 @@
+.work-list {
+    width: 200px;
+    max-height: 72vh;
+    text-align: bottom;
+    font-size: 12px;
+    font-family: 'Neue-Montreal-medium';
+    display: block;
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    overflow-y: scroll;
+    line-height: 2vh;
+}
+.work-list::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
+
+.job:hover {
+    opacity:50;
+}
+
+.company {
+    font-size: 14px;
+    font-family: 'Neue-Montreal-bold'
+}
+
+.job-title {
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Neue-Montreal-medium'
+}
+.job-duration {
+    font-family: 'Neue-Montreal-regular';
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 10px;
+}
+
+.job-description {
+    font-family: 'Neue-Montreal-regular';
+    font-size: 10px;
+    line-height: 1.2vh;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.work-list li {
+    list-style-type: none;
+    margin: 0;
+    transition: margin 0.3s ease;
+    font-family: 'Neue-Montreal-medium';
+    font-size: 20px;
+}
+
+
+.technologies {
+    padding-left:0;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    line-height: 1.5vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px 10px;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.technology {
+    width: fit-content;
+    padding-left:5px;
+    padding-right:5px;
+    font-family: 'Neue-Montreal-regular';
+    font-size: 8px;
+    border: 0.5px solid white;
+    border-radius: 5px;
+    margin-right: 0;
+    white-space: nowrap; /* Prevent text from wrapping inside the pill */
+    flex: 0 1 auto;
+}
